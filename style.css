@@ -1,0 +1,9 @@
+#parent{
+    background-color: black;
+    color: white;
+}
+#child
+{
+    background-color: red;
+    color: white;
+}   
